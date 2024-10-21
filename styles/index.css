@@ -63,8 +63,9 @@ main {
   line-height: 20px;
 }
 
-.weather-app-details span {
+.weather-app-details strong {
   color: #8d493a;
+  font-weight: 400;
 }
 
 .weather-app-current-temp {
